@@ -1,6 +1,6 @@
-package org.gobartsdev.designpatterns.observer.model.subject;
+package org.gobartsdev.designpatterns.observer.subject;
 
-import org.gobartsdev.designpatterns.observer.model.observer.Observer;
+import org.gobartsdev.designpatterns.observer.observer.Observer;
 
 public interface Subject {
 

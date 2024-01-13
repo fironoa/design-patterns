@@ -1,8 +1,8 @@
 package org.gobartsdev;
 
-import org.gobartsdev.designpatterns.observer.model.observer.HumidityScreen;
-import org.gobartsdev.designpatterns.observer.model.observer.TemperatureScreen;
-import org.gobartsdev.designpatterns.observer.model.subject.WeatherData;
+import org.gobartsdev.designpatterns.observer.observer.HumidityScreen;
+import org.gobartsdev.designpatterns.observer.observer.TemperatureScreen;
+import org.gobartsdev.designpatterns.observer.subject.WeatherData;
 import org.gobartsdev.designpatterns.strategy.model.Character;
 import org.gobartsdev.designpatterns.strategy.model.King;
 import org.gobartsdev.designpatterns.strategy.model.Queen;
