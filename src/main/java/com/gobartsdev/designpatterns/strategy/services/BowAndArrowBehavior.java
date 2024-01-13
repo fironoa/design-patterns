@@ -1,4 +1,4 @@
-package org.gobartsdev.designpatterns.strategy.services;
+package com.gobartsdev.designpatterns.strategy.services;
 
 public class BowAndArrowBehavior implements WeaponBehavior{
     @Override

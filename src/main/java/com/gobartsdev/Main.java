@@ -1,13 +1,13 @@
-package org.gobartsdev;
+package com.gobartsdev;
 
-import org.gobartsdev.designpatterns.observer.observer.HumidityScreen;
-import org.gobartsdev.designpatterns.observer.observer.TemperatureScreen;
-import org.gobartsdev.designpatterns.observer.subject.WeatherData;
-import org.gobartsdev.designpatterns.strategy.model.Character;
-import org.gobartsdev.designpatterns.strategy.model.King;
-import org.gobartsdev.designpatterns.strategy.model.Queen;
-import org.gobartsdev.designpatterns.strategy.services.BowAndArrowBehavior;
-import org.gobartsdev.designpatterns.strategy.services.SwordBehavior;
+import com.gobartsdev.designpatterns.observer.observer.HumidityScreen;
+import com.gobartsdev.designpatterns.observer.observer.TemperatureScreen;
+import com.gobartsdev.designpatterns.observer.subject.WeatherData;
+import com.gobartsdev.designpatterns.strategy.model.Character;
+import com.gobartsdev.designpatterns.strategy.model.King;
+import com.gobartsdev.designpatterns.strategy.model.Queen;
+import com.gobartsdev.designpatterns.strategy.services.BowAndArrowBehavior;
+import com.gobartsdev.designpatterns.strategy.services.SwordBehavior;
 
 public class Main {
     public static void main(String[] args) {

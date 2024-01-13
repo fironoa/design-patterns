@@ -1,6 +1,6 @@
-package org.gobartsdev.designpatterns.observer.observer;
+package com.gobartsdev.designpatterns.observer.observer;
 
-import org.gobartsdev.designpatterns.observer.subject.WeatherData;
+import com.gobartsdev.designpatterns.observer.subject.WeatherData;
 
 public class HumidityScreen implements Observer, Display{
 

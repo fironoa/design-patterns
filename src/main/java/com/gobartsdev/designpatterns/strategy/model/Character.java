@@ -1,6 +1,6 @@
-package org.gobartsdev.designpatterns.strategy.model;
+package com.gobartsdev.designpatterns.strategy.model;
 
-import org.gobartsdev.designpatterns.strategy.services.WeaponBehavior;
+import com.gobartsdev.designpatterns.strategy.services.WeaponBehavior;
 
 public class Character {
     String name;
